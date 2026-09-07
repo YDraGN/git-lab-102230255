@@ -4,3 +4,5 @@
 - Họ tên: Nguyễn Thị Bảo Ngân
 - MSSV: 102230255
 - Lớp: 23T_DT2
+## Mục tiêu
+Tìm hiểu Git và GitHub.
